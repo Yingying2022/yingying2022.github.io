@@ -1,0 +1,15 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Claude / superpowers local state (keep specs and plans tracked;
+# only ignore the per-machine local settings file)
+.claude/settings.local.json
+
+# Logs
+*.log
